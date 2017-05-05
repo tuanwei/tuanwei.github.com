@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## 就是一个网页，可以作为团委的展示页面
+###这里面可以放文字，放图片，也可以绑定域名。
+下面就先把方案贴上
+===
 
-You can use the [editor on GitHub](https://github.com/tuanwei/tuanwei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##关于在江西米业工厂设立团员读书角的倡议
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###1，活动背景
 
-### Markdown
+####江西米业共青团支部于2017年5月4日完成团委选举，旨在进一步提升青年同志综合素质，增长知识和工作技能。为调动起青年同志积极学习上进的热情，兹提出设立团员读书角的倡议。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###2，活动方案
 
-```markdown
-Syntax highlighted code block
+####1，开放办公楼一楼培训室；
 
-# Header 1
-## Header 2
-### Header 3
+####本着充分利用现有资源的原则，长期开放办公楼一楼培训室，各个部门轮流进行管理。
 
-- Bulleted
-- List
+####2，采购木质书架俩组（如公司已经有，则不采购）；
 
-1. Numbered
-2. List
+####关于采购方式：采取本地供应商比价的方法，至少联系当地三家以上制作书架的供应商，综合考虑质量和价格后采购。
 
-**Bold** and _Italic_ and `Code` text
+####关于审批流程：由团支书发起，协同团委，经行政综合部和财务部审批，呈报总经理。如通过，呈报给各部门相关领导和同事。
 
-[Link](url) and ![Image](src)
-```
+####关于费用预估：整体采购书架的费用控制在500元以内。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+####3，倡导每各部门M级以上同事，根据自己的经验，推荐一本读物；
 
-### Jekyll Themes
+####4，录制推荐书目视频，在工厂内部FTP平台共享；
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tuanwei/tuanwei.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+####与工厂FTP管理员（请教涂总）进行沟通，建立专门的公用分享目录，并分配只读权限。
 
-### Support or Contact
+####5，建立江西米业员工微信公众平台，发布书目推荐和心得体会；
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+####公众平台由人事行政部进行日常维护和管理。
+
+####6，建立江西米业团委网站主页，并定期维护。
+
+####暂时设想采用github形式的静态网页，提供文字和图片素材，进行宣传。由团委进行维护。
+
+###3，活动设想
+
+####1，充分利用起公司现有的培训资源（培训室，FTP平台），为青年员工提供一个向上积极的团组织氛围。
+
+####2，通过领导推荐向青年员工推荐书目，督促各部门领导积极学习提升自己的同时，也能对下级进行指导，实现共同进步。
+
+####3，各个部门录制推荐视频可以提升活动的趣味性、影响面和仪式感，并为公司以后制作宣传片提供素材。
+	
+####4，充分利用微信平台，让公众号成为能与与员工充分互动的工具。
+
+###4，活动规划
+
+####1，6月份与各部门领导沟通，完成前期沟通---公司领导同意，部门领导知晓
+
+####2，7月着手招投标工作，采购书架（如已有，则直接使用）
+
+####3，7月中旬完成前期准备工作，开放培训室，定制定部门值班表
+
+####4，陆续录制数目推荐视频，公布在FTP平台上。
+
+####5，8月底步入正轨，进行日常维护管理，定期更换读书主题。
+
+####6，不定时发布读书推荐和读书心得，每季度在微信平台发布季度总结
+
+####7，抽取质量较好的文章，提报总部人事行政部发布在oa上。
